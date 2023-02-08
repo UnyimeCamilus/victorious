@@ -52,21 +52,40 @@ section{
     font-weight: 400;
     font-size: 20px;
     margin: auto;
-    
-}
-section p{
-    font-size: 60px;
-    
+
 }
 
 section h4{
-color: blue;
-font-size: 40px;
-font-weight: 500;
-line-height:px;
+    font-size: 17px;
+    color: #2558ab;
+}
+
+section h3{
+    font-size: 46px;
+    font-weight: 300;
+    width: 500px;
+    /* border: 2px solid red; */
+  
 }
 
 section span{
-    color: blue;
+    color: #2558ab;
+    font-weight: 600;
 }
 
+section p{
+    font-size: 20px;
+    color:#8e9cb1 ;
+    width: 600px;
+    margin-bottom: 50px;
+}
+
+section button{
+    background-color: #ff8057;
+    color: #fff;
+    border-radius: 5px;
+    font-family: 'Rubik', sans-serif;
+    border: none;
+    height: 50px;
+    width: 200px;
+}
